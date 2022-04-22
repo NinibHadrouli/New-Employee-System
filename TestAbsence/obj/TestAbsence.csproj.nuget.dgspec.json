@@ -1,0 +1,148 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ninib\\Source\\Repos\\New-Employee-System\\TestAbsence\\TestAbsence.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ninib\\Source\\Repos\\New-Employee-System\\AbscenceSystem\\AbscenceSystem.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ninib\\Source\\Repos\\New-Employee-System\\AbscenceSystem\\AbscenceSystem.csproj",
+        "projectName": "AbscenceSystem",
+        "projectPath": "C:\\Users\\ninib\\Source\\Repos\\New-Employee-System\\AbscenceSystem\\AbscenceSystem.csproj",
+        "packagesPath": "C:\\Users\\ninib\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ninib\\Source\\Repos\\New-Employee-System\\AbscenceSystem\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ninib\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[27.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ninib\\Source\\Repos\\New-Employee-System\\TestAbsence\\TestAbsence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ninib\\Source\\Repos\\New-Employee-System\\TestAbsence\\TestAbsence.csproj",
+        "projectName": "TestAbsence",
+        "projectPath": "C:\\Users\\ninib\\Source\\Repos\\New-Employee-System\\TestAbsence\\TestAbsence.csproj",
+        "packagesPath": "C:\\Users\\ninib\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ninib\\Source\\Repos\\New-Employee-System\\TestAbsence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ninib\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\ninib\\Source\\Repos\\New-Employee-System\\AbscenceSystem\\AbscenceSystem.csproj": {
+                "projectPath": "C:\\Users\\ninib\\Source\\Repos\\New-Employee-System\\AbscenceSystem\\AbscenceSystem.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[27.2.1, )"
+            },
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

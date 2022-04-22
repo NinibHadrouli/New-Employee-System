@@ -38,7 +38,6 @@ namespace AbscenceSystem
         }
 
         SortedDictionary<DateTime, List<Employee>> EmpDictionaryXml = new SortedDictionary<DateTime, List<Employee>>();
-        //OrderedDictionary EmpDictionaryXml = new OrderedDictionary();
 
         private List<Employee> result = new List<Employee>();
 

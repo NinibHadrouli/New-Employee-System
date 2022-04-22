@@ -16,7 +16,7 @@ namespace EmployeesAbsence
             fHandler.GetEmpAbsMarch();
             fHandler.GetEmpCountAbsMarchTA();
             fHandler.GetEmpContextAbsApril();
-            fHandler.WriteNewCsvToFile();
+            //fHandler.WriteNewCsvToFile();
         }
     }
 }

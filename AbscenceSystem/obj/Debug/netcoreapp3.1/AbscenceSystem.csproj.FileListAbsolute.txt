@@ -1,0 +1,10 @@
+C:\Users\ninib\Source\Repos\New-Employee-System\AbscenceSystem\bin\Debug\netcoreapp3.1\AbscenceSystem.deps.json
+C:\Users\ninib\Source\Repos\New-Employee-System\AbscenceSystem\bin\Debug\netcoreapp3.1\AbscenceSystem.dll
+C:\Users\ninib\Source\Repos\New-Employee-System\AbscenceSystem\bin\Debug\netcoreapp3.1\AbscenceSystem.pdb
+C:\Users\ninib\Source\Repos\New-Employee-System\AbscenceSystem\obj\Debug\netcoreapp3.1\AbscenceSystem.csproj.AssemblyReference.cache
+C:\Users\ninib\Source\Repos\New-Employee-System\AbscenceSystem\obj\Debug\netcoreapp3.1\AbscenceSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninib\Source\Repos\New-Employee-System\AbscenceSystem\obj\Debug\netcoreapp3.1\AbscenceSystem.AssemblyInfoInputs.cache
+C:\Users\ninib\Source\Repos\New-Employee-System\AbscenceSystem\obj\Debug\netcoreapp3.1\AbscenceSystem.AssemblyInfo.cs
+C:\Users\ninib\Source\Repos\New-Employee-System\AbscenceSystem\obj\Debug\netcoreapp3.1\AbscenceSystem.csproj.CoreCompileInputs.cache
+C:\Users\ninib\Source\Repos\New-Employee-System\AbscenceSystem\obj\Debug\netcoreapp3.1\AbscenceSystem.dll
+C:\Users\ninib\Source\Repos\New-Employee-System\AbscenceSystem\obj\Debug\netcoreapp3.1\AbscenceSystem.pdb
