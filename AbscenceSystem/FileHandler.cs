@@ -241,19 +241,19 @@ namespace AbscenceSystem
             }
         }
 
-        public void WriteNewCsvToFile()
-        {
-            using (var writer = new StreamWriter(GetRootPath()+"\\NewData.csv"))
-            using (var csv = new CsvWriter(writer, CultureInfo.InvariantCulture))
-            {
-                foreach (var item in EmpDictionaryCsv)
-                {
+        //public void WriteNewCsvToFile()
+        //{
+        //    using (var writer = new StreamWriter(GetRootPath()+"\\NewData.csv"))
+        //    using (var csv = new CsvWriter(writer, CultureInfo.InvariantCulture))
+        //    {
+        //        foreach (var item in EmpDictionaryCsv)
+        //        {
                     
-                    csv.WriteRecords(item.Value.ToString());
+        //            csv.WriteRecords(item.Value.ToString());
 
-                }
-            }
-        }
+        //        }
+        //    }
+        //}
 
         private void FindAndUpdateRecordsInCsv(Employee emp)
         {
