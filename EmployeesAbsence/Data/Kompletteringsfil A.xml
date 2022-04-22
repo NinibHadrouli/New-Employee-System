@@ -1,0 +1,41 @@
+<Data>
+	<FileDate>2019-03-25</FileDate>
+	<Employees>
+		<Employee EmployeeId="3">
+			<StartDate>2019-03-25</StartDate>
+			<EndDate>2019-03-29</EndDate>
+			<TypeId>3</TypeId>
+			<Percentage>0.65</Percentage>
+		</Employee>
+		<Employee EmployeeId="3">
+			<StartDate>2019-04-01</StartDate>
+			<EndDate>2019-04-05</EndDate>
+			<TypeId>3</TypeId>
+			<Percentage>0.65</Percentage>
+		</Employee>
+		<Employee EmployeeId="5">
+			<StartDate>2019-04-02</StartDate>
+			<EndDate>2019-04-03</EndDate>
+			<TypeId>1</TypeId>
+			<Percentage>0.85</Percentage>
+		</Employee>
+		<Employee EmployeeId="7">
+			<StartDate>2019-03-29</StartDate>
+			<EndDate>2019-03-29</EndDate>
+			<TypeId>1</TypeId>
+			<Percentage>0.50</Percentage>
+		</Employee>
+		<Employee EmployeeId="7">
+			<StartDate>2019-04-01</StartDate>
+			<EndDate>2019-04-05</EndDate>
+			<TypeId>1</TypeId>
+			<Percentage>0.50</Percentage>
+		</Employee>
+		<Employee EmployeeId="9">
+			<StartDate>2019-04-01</StartDate>
+			<EndDate>2019-04-05</EndDate>
+			<TypeId>1</TypeId>
+			<Percentage>0.50</Percentage>
+		</Employee>
+	</Employees>
+</Data>
